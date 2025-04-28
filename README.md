@@ -1,3 +1,4 @@
+![IMG_2550](https://github.com/user-attachments/assets/30a0281d-df1a-44ac-9ace-4af6f047c270)
 # livinginny365.github.io
 这是livinginny365 纽约华人网365，展示我的网站项目、技能和社交媒体链接。
 # 纽约华人网365
