@@ -308,8 +308,9 @@ SEO优化与未来展望
 📢 GitHub 本项目为内容同步页，如需发布信息请访问主站：  
 👉 https://livinginny365.com
 
-![image](https://github.com/user-
-attachments/assets/3b26191f-58be-4d5f-8b7c-159dff9df5be)
+
+![image](https://github.com/user-attachments/assets/658183e2-cb1b-4ada-83a7-b8f402291d9b)
+
 # 🌐 纽约华人网365 - 华人社区分类信息平台 | 租房找工作一站式服务 | 美国找工网资源整合入口
 
 欢迎来到 **纽约华人网365（LivingInNY365.com）**，这是一个面向纽约五大区华人社区的免费中文生活资讯平台，整合了【租房信息】【招聘请人】【本地服务】【分类广告】【美国找工网资源】，帮助用户高效连接人与信息，是华人在纽约生活与发展的重要入口。
